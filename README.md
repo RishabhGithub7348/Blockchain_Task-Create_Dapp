@@ -1,5 +1,4 @@
-For visiting thing website
-https://blockchain-todolist.netlify.app/
+
 
 ![https___blockchain-todolist netlify app and 6 more pages - Personal - Microsoft​ Edge 11-09-2022 14_22_12](https://user-images.githubusercontent.com/75687649/189519438-edaea0e9-3f3f-45d3-938a-9b199a51dfa8.jpg)
 
